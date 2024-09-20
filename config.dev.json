@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "animeaibot38@gmail.com",
+    "password": "laylabot",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -20,7 +20,7 @@
   },
   "adminBot": [
     "your uid..!",
-    ""
+    "61560874892221"
   ],
   "whiteListMode": {
     "enable": false,
